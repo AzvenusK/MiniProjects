@@ -1,2 +1,2 @@
-# SmallProjects
+# MiniProjects
 All small learning curves.
